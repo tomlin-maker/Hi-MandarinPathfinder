@@ -8,3 +8,6 @@ Hi-Mandarin Lead-In Pathfinder 是一個由 Hi-Mandarin 設計開發提供 Hi-Ma
 #教材清單：顯示Pre-watch模組和Tutor Lesson列表
 #複製路徑：一鍵複製簡版學習計畫到剪貼簿、或手動剪貼完整版學習計畫
 #列印/匯出：產生適合列印的PDF格式
+
+## 版本
+- **v1.5（2026-09-19）**：嵌入資料（DATA）自權威課綱 catalog 重生——10 個 intent（移除重複的 businessgreetings1）、情境準確的 intent→lesson 對映、課碼改為兩層裸碼（修正 Topic 疊字）、每個 intent 補上真實學習目標。純資料刷新，介面與操作與 v1.4 相同。線上版與下載版共用此 index.html。
